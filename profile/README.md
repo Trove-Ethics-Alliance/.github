@@ -1,7 +1,7 @@
 <h4 align="left">✨ The goal of this alliance is to fight a widespread negativity that has most unfortunately settled in Trove’s community (as well as that of most other games, for that matter).
+</h4>
 
-
-🍵 We know the majority will always be in favor of good behavior, so we made a place where we can all look out for each other! Before signing up to join us, make sure your club meets our requirements.
+<h4 align="left">🍵 We know the majority will always be in favor of good behavior, so we made a place where we can all look out for each other! Before signing up to join us, make sure your club meets our requirements.
 </h4>
 
 <h3 align="left">Connect with me:</h3>
